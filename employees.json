@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 100,
+      "name": "Ravi",
+      "salary": 12000,
+      "gender": "male"
+    },
+    {
+      "id": 101,
+      "name": "Ram",
+      "salary": 26000,
+      "gender": "male"
+    },
+    {
+      "id": "103",
+      "name": "ria",
+      "salary": "15000",
+      "gender": "female"
+    },
+    {
+      "id": "104",
+      "name": "Neetu",
+      "salary": "30000",
+      "gender": "female"
+    },
+    {
+      "id": "105",
+      "name": "Mrina",
+      "salary": "35000",
+      "gender": "female"
+    },
+    {
+      "id": "106",
+      "name": "Nitesh",
+      "salary": "15000",
+      "gender": "male"
+    }
+  ]
+}
